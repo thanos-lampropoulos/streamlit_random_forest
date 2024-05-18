@@ -12,7 +12,7 @@ We have trained several models to predict the price of a house based on features
 """)
 
 import pickle
-model = pickle.load(open('thanos-lampropoulos/test_streamlit/main/trained_pipe_random_forest_PCA.sav', 'rb'))
+model = pickle.load(open('trained_pipe_random_forest_PCA.sav', 'rb'))
 
 LotFrontage = st.number_input("Lot Frontage")
 LotArea = st.number_input("Lot Area")

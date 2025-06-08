@@ -12,7 +12,7 @@ A Streamlit app that facilitates the use of a Random Forest ML model in order to
 
 - All dependencies are included in the .py file.
 
-- The app has been deployed on Streamlit Community Cloud. Alternatively, the .py file can be downloaded and executed using a local Streamlit installation.
+- The app has been deployed on [Streamlit Community Cloud](https://randomforestapp.streamlit.app/). Alternatively, the .py file can be downloaded and executed using a local Streamlit installation.
 
 ## Known issues
 

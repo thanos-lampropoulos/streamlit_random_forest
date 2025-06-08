@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Housing Prices Prediction")
 
-st.header("(my model)")
+st.header("(Using a Random Forest ML model)")
 
 st.write("""
 ### Project description
